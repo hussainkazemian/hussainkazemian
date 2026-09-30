@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I’m currently exploring and learning Prompt Engineering for AI-Assisted Web and Mobile Application Development, which is also the focus of my thesis.<br><br>From February to August 2026, I completed two internship periods at TUTORS, working as a Web Developer and Full-Stack Developer on the Burbest project, a social media platform.<br><br>My main interests include Prompt Engineering, Artificial Intelligence, Web Development, and Full-Stack Development, with a focus on both frontend and backend technologies.<br><br>I’m passionate about learning, building, and exploring how AI can improve the way we develop modern web and mobile applications.
+#Hello hello world 😀
+I’m currently exploring and learning Prompt Engineering for AI-Assisted Web and Mobile Application Development, which is also the focus of my thesis.<br><br>From February to August 2026, I completed two internship periods at TUTORS, working as a Web Developer and Full-Stack Developer on the Burbest project, a social media platform.<br><br>My main interests include Prompt Engineering, Artificial Intelligence, Web Development, and Full-Stack Development, with a focus on both frontend and backend technologies.<br><br>I’m passionate about learning, building, and exploring how AI can improve the way we develop modern web and mobile applications.
 
 
 # 💻 Tech Stack:
